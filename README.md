@@ -9,7 +9,7 @@ Clone the repository by either http method or ssh method
 ```
 git clone
 ```
-Chaning branch from main to chore/project1
+Changing branch from main to chore/project1
 
 ```
 git checkout chore/project1
